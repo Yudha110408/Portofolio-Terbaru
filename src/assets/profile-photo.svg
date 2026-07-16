@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Foto Profil Placeholder</title>
+  <desc id="desc">Ilustrasi foto profil berbentuk avatar.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1d3a67"/>
+      <stop offset="100%" stop-color="#5ca7e6"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="320" fill="url(#bg)"/>
+  <circle cx="160" cy="122" r="62" fill="#f0d5b4"/>
+  <path d="M72 282c13-53 46-82 88-82s75 29 88 82" fill="#f0d5b4"/>
+  <path d="M98 110c0-36 28-64 62-64 35 0 62 28 62 64-2-12-12-28-28-32-18 10-42 12-65 8-10 11-20 15-31 17z" fill="#0f2747"/>
+  <circle cx="136" cy="124" r="5" fill="#213d63"/>
+  <circle cx="184" cy="124" r="5" fill="#213d63"/>
+  <path d="M145 155c10 9 21 9 31 0" fill="none" stroke="#213d63" stroke-width="4" stroke-linecap="round"/>
+</svg>
